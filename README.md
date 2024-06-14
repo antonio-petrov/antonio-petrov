@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Antonio Petrov 👋
+
+TL;DR
+10+ years of full-stack software development experience. Give me enough time and clear requirements and I can do anything. 😊
+
 
 <!--
 **antonio-petrov/antonio-petrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
