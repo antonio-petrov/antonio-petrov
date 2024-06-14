@@ -4,6 +4,12 @@ TL;DR
 10+ years of full-stack software development experience. Give me enough time and clear requirements and I can do anything. 😊
 
 
+<h2>Tech Stack</h2>
+
+<h3>Web Development</h3>
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  
 <!--
 **antonio-petrov/antonio-petrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
