@@ -1,8 +1,10 @@
 ## Hi, I am Antonio Petrov 👋
 
-TL;DR
-10+ years of full-stack software development experience. Give me enough time and clear requirements and I can do anything. 😊
-
+<p>
+  TL;DR
+  <br/ >
+  10+ years of full-stack software development experience. Give me enough time and clear requirements and I can do anything. 😊
+</p>
 
 <h2>Tech Stack</h2>
 
@@ -17,21 +19,79 @@ TL;DR
   
 <h3>Frontend Development</h3>
 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)&nbsp;
-  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
-  ![Next](https://img.shields.io/badge/Next-%2320262a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  
-<h3>Mobile Development ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp; </h3>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Next](https://img.shields.io/badge/Next-%2320262a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Svelte](https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![ChakraUI](https://img.shields.io/badge/chakra_UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Blazor](https://img.shields.io/badge/blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)&nbsp;
 
-  
-  ![IOS](https://img.shields.io/badge/ios-%230095D5.svg?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  
-<h3> Database Development</h3>
+<h3>Mobile Development</h3>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![IOS](https://img.shields.io/badge/ios-%230095D5.svg?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
+![Xamarin](https://img.shields.io/badge/xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
+
+<h3>Database Development</h3>
+
+![MSSQL](https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![DynamoDB](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)&nbsp;
+
+
+<h3>3rd Party Integrations, libraries and frameworks I have worked with</h3>
+
+<h5>Authentication</h5>
+Auth0
+OAuth
+
+<h5>UI</h5>
+KendoUI
+Syncfusion
+
+<h5>Database</h5>
+EntityFramework
+Dapper
+Supabase
+
+<h5>Unit testing</h5>
+NSubstitute
+XUnit
+Moq
+Selenium
+Puppeteer
+
+<h5>3rd party integrations</h5>
+Stripe
+Salesforce
+Hubspot
+Zoho
+Zapier
+Facebook Graph API
+Twitter API
+Google Maps API
+Mapbox API
+HERE API
+Shopify
+Klaviyo
+
+<h5>Other skills</h5>
+Figma
+Adobe XD
+Miro
+SendGrid
+Twilio
+
+Vercel
