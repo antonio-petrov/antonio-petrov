@@ -67,46 +67,58 @@
 ![Xamarin](https://img.shields.io/badge/xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-<h3>3rd Party Integrations, libraries and frameworks I have worked with</h3>
+<h3>3rd Party Integrations, Libraries and Frameworks I have worked with</h3>
 
 <h5>Authentication</h5>
-Auth0
-OAuth
+<ul>
+  <li>Auth0</li>
+  <li>OAuth</li>
+</ul>
 
 <h5>UI</h5>
-KendoUI
-Syncfusion
+<ul>
+  <li>KendoUI</li>
+  <li>Syncfusion</li>
+</ul>
 
 <h5>Database</h5>
-EntityFramework
-Dapper
-Supabase
+<ul>
+  <li>EntityFramework</li>
+  <li>Dapper</li>
+  <li>Supabase</li>
+</ul>
 
 <h5>Unit Testing</h5>
-NSubstitute
-XUnit
-Moq
-Selenium
-Puppeteer
+<ul>
+  <li>NSubstitute</li>
+  <li>XUnit</li>
+  <li>Moq</li>
+  <li>Selenium</li>
+  <li>Puppeteer</li>
+</ul>
 
 <h5>3rd Party Integrations</h5>
-Stripe
-Salesforce
-Hubspot
-Zoho
-Zapier
-Facebook Graph API
-Twitter API
-Google Maps API
-Mapbox API
-HERE API
-Shopify
-Klaviyo
+<ul>
+  <li>Stripe</li>
+  <li>Salesforce</li>
+  <li>Hubspot</li>
+  <li>Zoho</li>
+  <li>Zapier</li>
+  <li>Facebook Graph API</li>
+  <li>Twitter API</li>
+  <li>Google Maps API</li>
+  <li>Mapbox API</li>
+  <li>HERE API</li>
+  <li>Shopify</li>
+  <li>Klaviyo</li>
+</ul>
 
 <h5>Other Skills</h5>
-Figma
-Adobe XD
-Miro
-SendGrid
-Twilio
-Vercel
+<ul>
+  <li>Figma</li>
+  <li>Adobe XD</li>
+  <li>Miro</li>
+  <li>SendGrid</li>
+  <li>Twilio</li>
+  <li>Vercel</li>
+</ul>
