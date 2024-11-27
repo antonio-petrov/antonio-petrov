@@ -1,10 +1,5 @@
 ## Hi, I am Antonio Petrov 👋
 
-<p>
-  TL;DR
-  <br/ >
-  10+ years of full-stack software development experience. Give me enough time and clear requirements and I can do anything. 😊
-</p>
 
 <h2>Tech Stack</h2>
 
