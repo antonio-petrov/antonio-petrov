@@ -1,6 +1,11 @@
 ## Hi, I am Antonio Petrov 👋
 
 
+## About Me
+
+A passionate developer with over 11 years of experience building efficient, scalable, and user-friendly applications. I specialize in  **.NET**, **React**, **NestJS**, and **TypeScript**, and I enjoy tackling complex problems with clean, maintainable solutions.
+
+
 <details>
   <summary><strong>Tech Stack</strong></summary>
 
