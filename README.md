@@ -1,7 +1,8 @@
 ## Hi, I am Antonio Petrov 👋
 
 
-<h2>Tech Stack</h2>
+<details>
+  <summary><strong>Tech Stack</strong></summary>
 
 <h3>Backend Development</h3>
   
@@ -117,3 +118,5 @@
   <li>Twilio</li>
   <li>Vercel</li>
 </ul>
+
+</details>
